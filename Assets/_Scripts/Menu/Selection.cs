@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Net.Http.Headers;
+using System.Security.Cryptography;
 using UnityEngine;
-using UnityEngine.UI;
 
 namespace LP.TickyTacky.Menu
 {
@@ -8,28 +9,45 @@ namespace LP.TickyTacky.Menu
     {
         public int CurrentPos = 1;
         public GameObject StartPos, OptionsPos;
+        public AudioSource Source;
+        public AudioClip Clip;
+
 
         private void Update()
         {
-            CurrentPos = Mathf.Clamp(CurrentPos, 1, 2);
             SelectionInputs();
         }
 
         private void SelectionInputs()
         {
+            
             if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
             {
-                CurrentPos += 1;
+                if (CurrentPos == 2)
+                {
+                    CurrentPos -= 1;
+                }
+                else
+                {
+                    CurrentPos += 1;
+                }
                 UpdateSelection();
             }
             else if(Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
             {
-                CurrentPos -= 1;
+                if (CurrentPos == 1)
+                {
+                    CurrentPos += 1;
+                }
+                else
+                {
+                    CurrentPos -= 1;
+                }
                 UpdateSelection();
             }
         }
 
-        private void UpdateSelection()
+        public void UpdateSelection()
         {
             switch (CurrentPos)
             {
@@ -44,6 +62,26 @@ namespace LP.TickyTacky.Menu
                     break;
 
             }
+            Source.PlayOneShot(Clip);
+        }
+
+        private void MakeSelection()
+        {
+            if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter))
+            {
+                switch (CurrentPos)
+                {
+                    case 1:
+                        //load start stuff
+                        break;
+                    case 2:
+                        //load options stuff
+                        break;
+                    default:
+                        Debug.Log($"Current Menu Pos:{CurrentPos} can not move in this direction!");
+                        break;
+                }
+            }        
         }
     }
 }
