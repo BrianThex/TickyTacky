@@ -7,10 +7,11 @@ namespace LP.TickyTacky.Menu
 {
     public class Selection : MonoBehaviour
     {
-        public int CurrentPos = 1;
-        public GameObject StartPos, OptionsPos;
+        public int CurrentPos = 0;
+        public GameObject[] MenuPosisitions;
         public AudioSource Source;
         public AudioClip Clip;
+        public bool MoveOnX = false, MoveOnY = false;
 
 
         private void Update()
@@ -20,68 +21,95 @@ namespace LP.TickyTacky.Menu
 
         private void SelectionInputs()
         {
-            
-            if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
+            if (MoveOnY)
             {
-                if (CurrentPos == 2)
+                if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
                 {
-                    CurrentPos -= 1;
+                    if (CurrentPos != MenuPosisitions.Length - 1)
+                    {
+                        CurrentPos += 1;
+                    }
+                    else
+                    {
+                        CurrentPos = 0;
+                    }
+                    UpdateSelection();
                 }
-                else
+                else if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
                 {
-                    CurrentPos += 1;
+                    if (CurrentPos != 0)
+                    {
+                        CurrentPos -= 1;
+                    }
+                    else
+                    {
+                        CurrentPos = MenuPosisitions.Length - 1;
+                    }
+                    UpdateSelection();
                 }
-                UpdateSelection();
             }
-            else if(Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
+            else if (MoveOnX)
             {
-                if (CurrentPos == 1)
+                if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
                 {
-                    CurrentPos += 1;
+                    if (CurrentPos != MenuPosisitions.Length - 1)
+                    {
+                        CurrentPos += 1;
+                    }
+                    else
+                    {
+                        CurrentPos = 0;
+                    }
+                    UpdateSelection();
                 }
-                else
+                else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
                 {
-                    CurrentPos -= 1;
+                    if (CurrentPos != 0)
+                    {
+                        CurrentPos -= 1;
+                    }
+                    else
+                    {
+                        CurrentPos = MenuPosisitions.Length - 1;
+                    }
+                    UpdateSelection();
                 }
-                UpdateSelection();
             }
+            else
+            {
+                Debug.Log("Menue till not moving on any axis!");
+            }
+
+
         }
 
         public void UpdateSelection()
         {
-            switch (CurrentPos)
+            if (MoveOnX)
             {
-                case 1:
-                    transform.position = new Vector3(transform.position.x, StartPos.transform.position.y, transform.position.z);
-                    break;
-                case 2:
-                    transform.position = new Vector3(transform.position.x, OptionsPos.transform.position.y, transform.position.z);
-                    break;
-                default:
-                    Debug.Log($"Current Menu Pos:{CurrentPos} can not move in this direction!");
-                    break;
+                transform.position = new Vector3(MenuPosisitions[CurrentPos].transform.position.x, transform.position.y, transform.position.z);
 
             }
-            Source.PlayOneShot(Clip);
+            else if (MoveOnY)
+            {
+                transform.position = new Vector3(transform.position.x, MenuPosisitions[CurrentPos].transform.position.y, transform.position.z);
+
+            }
+            PlaySound();
         }
 
         private void MakeSelection()
         {
             if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter))
             {
-                switch (CurrentPos)
-                {
-                    case 1:
-                        //load start stuff
-                        break;
-                    case 2:
-                        //load options stuff
-                        break;
-                    default:
-                        Debug.Log($"Current Menu Pos:{CurrentPos} can not move in this direction!");
-                        break;
-                }
+                
             }        
+        }
+
+        public void PlaySound()
+        {
+            Source.PlayOneShot(Clip);
+
         }
     }
 }

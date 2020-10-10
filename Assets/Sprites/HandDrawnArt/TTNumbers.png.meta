@@ -1,0 +1,2995 @@
+fileFormatVersion: 2
+guid: c840ca4694e5cc0479b9c0ac7c70154d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 416386018119543186
+    second: TTNumbers_0
+  - first:
+      213: -5050858904307692917
+    second: TTNumbers_1
+  - first:
+      213: -9041437738015602448
+    second: TTNumbers_2
+  - first:
+      213: -201678464272795911
+    second: TTNumbers_3
+  - first:
+      213: -195993615489557729
+    second: TTNumbers_4
+  - first:
+      213: -3856112396522534362
+    second: TTNumbers_5
+  - first:
+      213: -2085909935371169928
+    second: TTNumbers_6
+  - first:
+      213: -3285910212820579875
+    second: TTNumbers_7
+  - first:
+      213: 8526665847795932002
+    second: TTNumbers_8
+  - first:
+      213: -7428951193123738650
+    second: TTNumbers_9
+  - first:
+      213: -2119194447879007291
+    second: TTNumbers_10
+  - first:
+      213: 3497093134590551093
+    second: TTNumbers_11
+  - first:
+      213: 6025574438132824228
+    second: TTNumbers_12
+  - first:
+      213: 6973909404535720643
+    second: TTNumbers_13
+  - first:
+      213: -4673778656559280342
+    second: TTNumbers_14
+  - first:
+      213: -8193646350812704661
+    second: TTNumbers_15
+  - first:
+      213: 665911976912661799
+    second: TTNumbers_16
+  - first:
+      213: 3379220827077478052
+    second: TTNumbers_17
+  - first:
+      213: 821288642464787811
+    second: TTNumbers_18
+  - first:
+      213: 5469768995581962123
+    second: TTNumbers_19
+  - first:
+      213: -6058398191580857340
+    second: TTNumbers_20
+  - first:
+      213: 5845845094312228318
+    second: TTNumbers_21
+  - first:
+      213: -549542454757521305
+    second: TTNumbers_22
+  - first:
+      213: -4810664428362093424
+    second: TTNumbers_23
+  - first:
+      213: -9151724966207302072
+    second: TTNumbers_24
+  - first:
+      213: -5091942701874954090
+    second: TTNumbers_25
+  - first:
+      213: -3441587558304702696
+    second: TTNumbers_26
+  - first:
+      213: -6921301485756229574
+    second: TTNumbers_27
+  - first:
+      213: -4900698812050692235
+    second: TTNumbers_28
+  - first:
+      213: 2677700479239194003
+    second: TTNumbers_29
+  - first:
+      213: 1514700819218234850
+    second: TTNumbers_30
+  - first:
+      213: 8009469512262612702
+    second: TTNumbers_31
+  - first:
+      213: 6096476404454754298
+    second: TTNumbers_32
+  - first:
+      213: 8961826991434598083
+    second: TTNumbers_33
+  - first:
+      213: 5778876492219088366
+    second: TTNumbers_34
+  - first:
+      213: -32361098085275129
+    second: TTNumbers_35
+  - first:
+      213: -1361831452992812916
+    second: TTNumbers_36
+  - first:
+      213: -8354916591336923810
+    second: TTNumbers_37
+  - first:
+      213: -6216172642937560422
+    second: TTNumbers_38
+  - first:
+      213: -493291133364873296
+    second: TTNumbers_39
+  - first:
+      213: -8163302214776276329
+    second: TTNumbers_40
+  - first:
+      213: 5454197741270631917
+    second: TTNumbers_41
+  - first:
+      213: 1336889981827001788
+    second: TTNumbers_42
+  - first:
+      213: 8857953018793233945
+    second: TTNumbers_43
+  - first:
+      213: -6486801836113552207
+    second: TTNumbers_44
+  - first:
+      213: -6208294705584342070
+    second: TTNumbers_45
+  - first:
+      213: 9221778664359871803
+    second: TTNumbers_46
+  - first:
+      213: -2332838755350523885
+    second: TTNumbers_47
+  - first:
+      213: -538467038960331487
+    second: TTNumbers_48
+  - first:
+      213: 4552409388050580517
+    second: TTNumbers_49
+  - first:
+      213: -447178537314668115
+    second: TTNumbers_50
+  - first:
+      213: -708676569038036716
+    second: TTNumbers_51
+  - first:
+      213: 621167057598906721
+    second: TTNumbers_52
+  - first:
+      213: 3708165210143034179
+    second: TTNumbers_53
+  - first:
+      213: 7377506370405295357
+    second: TTNumbers_54
+  - first:
+      213: 485638198731585249
+    second: TTNumbers_55
+  - first:
+      213: 5093884505375841129
+    second: TTNumbers_56
+  - first:
+      213: -6528384018761523462
+    second: TTNumbers_57
+  - first:
+      213: -4095565721716164172
+    second: TTNumbers_58
+  - first:
+      213: 4648032786880787268
+    second: TTNumbers_59
+  - first:
+      213: 3666277204087633034
+    second: TTNumbers_60
+  - first:
+      213: -2168083851036806859
+    second: TTNumbers_61
+  - first:
+      213: 3499427489422149090
+    second: TTNumbers_62
+  - first:
+      213: -3489414986438971952
+    second: TTNumbers_63
+  - first:
+      213: 2762716651523173539
+    second: TTNumbers_64
+  - first:
+      213: -3616626816237146354
+    second: TTNumbers_65
+  - first:
+      213: 6791168602853037127
+    second: TTNumbers_66
+  - first:
+      213: -143207035120699171
+    second: TTNumbers_67
+  - first:
+      213: -1263183053897186916
+    second: TTNumbers_68
+  - first:
+      213: 1851149598601336991
+    second: TTNumbers_69
+  - first:
+      213: -7438946008152433952
+    second: TTNumbers_70
+  - first:
+      213: 7343519601703116740
+    second: TTNumbers_71
+  - first:
+      213: -6061377750980322265
+    second: TTNumbers_72
+  - first:
+      213: 2115636224623978969
+    second: TTNumbers_73
+  - first:
+      213: 7582020353286822428
+    second: TTNumbers_74
+  - first:
+      213: 4259256041580512701
+    second: TTNumbers_75
+  - first:
+      213: 1308261248169525328
+    second: TTNumbers_76
+  - first:
+      213: -4081434533752099631
+    second: TTNumbers_77
+  - first:
+      213: 3849518741665945005
+    second: TTNumbers_78
+  - first:
+      213: 1277847610593078804
+    second: TTNumbers_66
+  - first:
+      213: 8348692128906988797
+    second: TTNumbers_80
+  - first:
+      213: -5375107322569241445
+    second: TTNumbers_81
+  - first:
+      213: -5694010812744629073
+    second: TTNumbers_82
+  - first:
+      213: 4870108783468003094
+    second: TTNumbers_83
+  - first:
+      213: 8121571046905138141
+    second: TTNumbers_84
+  - first:
+      213: 6777630949252314582
+    second: TTNumbers_85
+  - first:
+      213: 4881373069600290435
+    second: TTNumbers_86
+  - first:
+      213: -6973853851218874267
+    second: TTNumbers_87
+  - first:
+      213: 6499728261711390635
+    second: TTNumbers_88
+  - first:
+      213: -4973709965187216573
+    second: TTNumbers_89
+  - first:
+      213: -1396044370915757055
+    second: TTNumbers_90
+  - first:
+      213: -7725375196432642948
+    second: TTNumbers_91
+  - first:
+      213: 4988573199238141562
+    second: TTNumbers_92
+  - first:
+      213: -2000041381974608887
+    second: TTNumbers_93
+  - first:
+      213: 6631038433661179541
+    second: TTNumbers_94
+  - first:
+      213: 8282060851612965150
+    second: TTNumbers_95
+  - first:
+      213: -199896808796292314
+    second: TTNumbers_96
+  - first:
+      213: 8210729157083255802
+    second: TTNumbers_97
+  - first:
+      213: 3232726394572663559
+    second: TTNumbers_98
+  - first:
+      213: -6281985329655841937
+    second: TTNumbers_99
+  - first:
+      213: -1804822876461946305
+    second: TTNumbers_100
+  - first:
+      213: -8235464363745506574
+    second: TTNumbers_101
+  - first:
+      213: -4405056146377224378
+    second: TTNumbers_102
+  - first:
+      213: -601640682116949128
+    second: TTNumbers_103
+  - first:
+      213: -5934109538224785440
+    second: TTNumbers_104
+  - first:
+      213: 8801143643133880259
+    second: TTNumbers_105
+  - first:
+      213: -8385259354319037990
+    second: TTNumbers_106
+  - first:
+      213: -4621942694707137982
+    second: TTNumbers_107
+  - first:
+      213: 986386779819494083
+    second: TTNumbers_108
+  - first:
+      213: 6736031185022678336
+    second: TTNumbers_109
+  - first:
+      213: 3198296194317627992
+    second: TTNumbers_110
+  - first:
+      213: 8874982835388662415
+    second: TTNumbers_111
+  - first:
+      213: 3213411026926508625
+    second: TTNumbers_112
+  - first:
+      213: 7844291436545345834
+    second: TTNumbers_113
+  - first:
+      213: -8590393711767375417
+    second: TTNumbers_114
+  - first:
+      213: -6798952791038706722
+    second: TTNumbers_115
+  - first:
+      213: 8130338311948167079
+    second: TTNumbers_116
+  - first:
+      213: -3197125960356626561
+    second: TTNumbers_117
+  - first:
+      213: 8135986452723392121
+    second: TTNumbers_118
+  - first:
+      213: -8421369767959752510
+    second: TTNumbers_119
+  - first:
+      213: 1773949250013125292
+    second: TTNumbers_120
+  - first:
+      213: -4173993604089539702
+    second: TTNumbers_121
+  - first:
+      213: 9221966077563243725
+    second: TTNumbers_122
+  - first:
+      213: -1848004161391496050
+    second: TTNumbers_123
+  - first:
+      213: -1586922466265579316
+    second: TTNumbers_124
+  - first:
+      213: -922782585616356769
+    second: TTNumbers_125
+  - first:
+      213: -7281556973453593285
+    second: TTNumbers_126
+  - first:
+      213: -4572323301174877464
+    second: TTNumbers_127
+  - first:
+      213: 7309370409124327849
+    second: TTNumbers_128
+  - first:
+      213: -54514377908105379
+    second: TTNumbers_129
+  - first:
+      213: -3672171308106302801
+    second: TTNumbers_130
+  - first:
+      213: -5258950545957861267
+    second: TTNumbers_131
+  - first:
+      213: 8462861093040104801
+    second: TTNumbers_132
+  - first:
+      213: -8266881907294784743
+    second: TTNumbers_133
+  - first:
+      213: 1461756073881706804
+    second: TTNumbers_134
+  - first:
+      213: -2809268957358307271
+    second: TTNumbers_135
+  - first:
+      213: 3007354766973566229
+    second: TTNumbers_136
+  - first:
+      213: -6764406533484008827
+    second: TTNumbers_137
+  - first:
+      213: 1756632264243472530
+    second: TTNumbers_138
+  - first:
+      213: -6778704128880643125
+    second: TTNumbers_139
+  - first:
+      213: 1806904303852606724
+    second: TTNumbers_140
+  - first:
+      213: 2732272215091796082
+    second: TTNumbers_141
+  - first:
+      213: 4212098082233176342
+    second: TTNumbers_142
+  - first:
+      213: 7644150721654506115
+    second: TTNumbers_143
+  - first:
+      213: -2340917903576784848
+    second: TTNumbers_144
+  - first:
+      213: -2502250724864578528
+    second: TTNumbers_145
+  - first:
+      213: 8389369573685969115
+    second: TTNumbers_146
+  - first:
+      213: -2537855210777643391
+    second: TTNumbers_147
+  - first:
+      213: -2858614129223218290
+    second: TTNumbers_148
+  - first:
+      213: 3262173206130105481
+    second: TTNumbers_149
+  - first:
+      213: 2331349050237773468
+    second: TTNumbers_150
+  - first:
+      213: -5068920292574495485
+    second: TTNumbers_151
+  - first:
+      213: 5174956735865199197
+    second: TTNumbers_152
+  - first:
+      213: -8128125472095314479
+    second: TTNumbers_153
+  - first:
+      213: 317321546600054083
+    second: TTNumbers_154
+  - first:
+      213: -3117193665243721430
+    second: TTNumbers_155
+  - first:
+      213: -1260152964444664302
+    second: TTNumbers_156
+  - first:
+      213: -8883273428363234132
+    second: TTNumbers_157
+  - first:
+      213: -3348836931053417462
+    second: TTNumbers_158
+  - first:
+      213: 6726588760954382964
+    second: TTNumbers_159
+  - first:
+      213: -8839839761513119534
+    second: TTNumbers_160
+  - first:
+      213: 2429951824927982969
+    second: TTNumbers_161
+  - first:
+      213: -6941055128916936878
+    second: TTNumbers_162
+  - first:
+      213: 1336373620959678739
+    second: TTNumbers_163
+  - first:
+      213: 3658902781014571449
+    second: TTNumbers_164
+  - first:
+      213: -2093705765994890324
+    second: TTNumbers_165
+  - first:
+      213: 5174328152937318623
+    second: TTNumbers_166
+  - first:
+      213: 3703988375940318195
+    second: TTNumbers_167
+  - first:
+      213: 4835196799605048597
+    second: TTNumbers_168
+  - first:
+      213: 8839492019200430547
+    second: TTNumbers_169
+  - first:
+      213: 2796603527713300866
+    second: TTNumbers_170
+  - first:
+      213: -2701231988689858204
+    second: TTNumbers_171
+  - first:
+      213: 1838291257714219940
+    second: TTNumbers_172
+  - first:
+      213: -9184395195586578250
+    second: TTNumbers_173
+  - first:
+      213: -1500486790734923272
+    second: TTNumbers_174
+  - first:
+      213: -2481248233055030410
+    second: TTNumbers_175
+  - first:
+      213: 8338879408946193989
+    second: TTNumbers_176
+  - first:
+      213: -3486100016765980385
+    second: TTNumbers_177
+  - first:
+      213: 7695625951895862346
+    second: TTNumbers_178
+  - first:
+      213: -5461802604191040910
+    second: TTNumbers_179
+  - first:
+      213: -4081512450182098645
+    second: TTNumbers_180
+  - first:
+      213: -2227901515627214479
+    second: TTNumbers_181
+  - first:
+      213: -8976438814632642053
+    second: TTNumbers_182
+  - first:
+      213: -104267495884407169
+    second: TTNumbers_183
+  - first:
+      213: -541456026344718507
+    second: TTNumbers_184
+  - first:
+      213: 6636081022614572089
+    second: TTNumbers_185
+  - first:
+      213: 490201037523194258
+    second: TTNumbers_186
+  - first:
+      213: 6217274453843406704
+    second: TTNumbers_187
+  - first:
+      213: 3788096217359996198
+    second: TTNumbers_188
+  - first:
+      213: -7340601307400046232
+    second: TTNumbers_189
+  - first:
+      213: -7337122705580430570
+    second: TTNumbers_190
+  - first:
+      213: -205514307295919684
+    second: TTNumbers_191
+  - first:
+      213: -2736919285389295864
+    second: TTNumbers_192
+  - first:
+      213: -5341343347701070002
+    second: TTNumbers_193
+  - first:
+      213: 6462524572029121024
+    second: TTNumbers_194
+  - first:
+      213: -76974339582222999
+    second: TTNumbers_195
+  - first:
+      213: -4770557259962193364
+    second: TTNumbers_196
+  - first:
+      213: 8205980811481257556
+    second: TTNumbers_197
+  - first:
+      213: 8106306715197552397
+    second: TTNumbers_198
+  - first:
+      213: -8716905715055971247
+    second: TTNumbers_199
+  - first:
+      213: 1257099456443684135
+    second: TTNumbers_200
+  - first:
+      213: 6956326066625202825
+    second: TTNumbers_201
+  - first:
+      213: -4193332300167791575
+    second: TTNumbers_202
+  - first:
+      213: 2441834750274513429
+    second: TTNumbers_203
+  - first:
+      213: 8697310090309553251
+    second: TTNumbers_204
+  - first:
+      213: 7262947424420235663
+    second: TTNumbers_205
+  - first:
+      213: -6298436057805904279
+    second: TTNumbers_206
+  - first:
+      213: -1307249382361725733
+    second: TTNumbers_207
+  - first:
+      213: -2671864522831153701
+    second: TTNumbers_208
+  - first:
+      213: 600834266567955475
+    second: TTNumbers_209
+  - first:
+      213: -1255144329924094880
+    second: TTNumbers_210
+  - first:
+      213: 6223324998317300687
+    second: TTNumbers_211
+  - first:
+      213: -8134128716017298221
+    second: TTNumbers_212
+  - first:
+      213: 6916657759878005479
+    second: TTNumbers_213
+  - first:
+      213: 4819698721350692135
+    second: TTNumbers_214
+  - first:
+      213: -2830437471973782182
+    second: TTNumbers_215
+  - first:
+      213: 8365221486811000404
+    second: TTNumbers_216
+  - first:
+      213: 5558666305905756672
+    second: TTNumbers_217
+  - first:
+      213: -1164136789705639877
+    second: TTNumbers_218
+  - first:
+      213: -1022811589173606815
+    second: TTNumbers_219
+  - first:
+      213: 8973138398804837829
+    second: TTNumbers_220
+  - first:
+      213: 978272962498875045
+    second: TTNumbers_221
+  - first:
+      213: 1649772426509845450
+    second: TTNumbers_222
+  - first:
+      213: 5033986170737342312
+    second: TTNumbers_223
+  - first:
+      213: -8322158133755908517
+    second: TTNumbers_224
+  - first:
+      213: -8297686866572538173
+    second: TTNumbers_225
+  - first:
+      213: -6608317647945327200
+    second: TTNumbers_226
+  - first:
+      213: 9137763575953959881
+    second: TTNumbers_227
+  - first:
+      213: -3499342366314212364
+    second: TTNumbers_228
+  - first:
+      213: -9097579365345306090
+    second: TTNumbers_229
+  - first:
+      213: 946431869879440064
+    second: TTNumbers_230
+  - first:
+      213: -3955139714481294168
+    second: TTNumbers_231
+  - first:
+      213: -5883396149125970138
+    second: TTNumbers_232
+  - first:
+      213: -4866912510818159622
+    second: TTNumbers_233
+  - first:
+      213: 5311750967527211053
+    second: TTNumbers_234
+  - first:
+      213: -4472774787049674042
+    second: TTNumbers_235
+  - first:
+      213: -6302258370439787756
+    second: TTNumbers_236
+  - first:
+      213: 6711151363494232209
+    second: TTNumbers_237
+  - first:
+      213: -1435083394178058840
+    second: TTNumbers_238
+  - first:
+      213: -660663680426082283
+    second: TTNumbers_239
+  - first:
+      213: 9057860203420851315
+    second: TTNumbers_240
+  - first:
+      213: -912742912672679605
+    second: TTNumbers_241
+  - first:
+      213: 6603171828463175216
+    second: TTNumbers_242
+  - first:
+      213: 7268095233656958417
+    second: TTNumbers_243
+  - first:
+      213: -685549264183423307
+    second: TTNumbers_244
+  - first:
+      213: -1260862924147047610
+    second: TTNumbers_245
+  - first:
+      213: 2677740512687213022
+    second: TTNumbers_246
+  - first:
+      213: 3927661236653223882
+    second: TTNumbers_247
+  - first:
+      213: -5169935152590703315
+    second: TTNumbers_248
+  - first:
+      213: -4065172870071004335
+    second: TTNumbers_249
+  - first:
+      213: -189488929847480175
+    second: TTNumbers_250
+  - first:
+      213: 4308682581430724818
+    second: TTNumbers_251
+  - first:
+      213: -3995348845141238581
+    second: TTNumbers_252
+  - first:
+      213: -2474536033457443552
+    second: TTNumbers_253
+  - first:
+      213: 2263790927568578856
+    second: TTNumbers_254
+  - first:
+      213: 8497538600896808997
+    second: TTNumbers_255
+  - first:
+      213: 3859938684151521434
+    second: TTNumbers_256
+  - first:
+      213: -699097424482713996
+    second: TTNumbers_257
+  - first:
+      213: -3669468797554542781
+    second: TTNumbers_258
+  - first:
+      213: -6640681932947263628
+    second: TTNumbers_259
+  - first:
+      213: -3390773441860768185
+    second: TTNumbers_260
+  - first:
+      213: -3081331014422289766
+    second: TTNumbers_261
+  - first:
+      213: -5661850596041812704
+    second: TTNumbers_262
+  - first:
+      213: 1443120411785731876
+    second: TTNumbers_263
+  - first:
+      213: -2603303799834873045
+    second: TTNumbers_264
+  - first:
+      213: 2498423111581231030
+    second: TTNumbers_265
+  - first:
+      213: -1555520740918611141
+    second: TTNumbers_266
+  - first:
+      213: -2771530011235086453
+    second: TTNumbers_267
+  - first:
+      213: -195634241379923495
+    second: TTNumbers_268
+  - first:
+      213: 1352863948460265654
+    second: TTNumbers_269
+  - first:
+      213: -8328046384660029608
+    second: TTNumbers_270
+  - first:
+      213: 9168284851459069021
+    second: TTNumbers_271
+  - first:
+      213: 821098597497576704
+    second: TTNumbers_272
+  - first:
+      213: -2386816889977465056
+    second: TTNumbers_273
+  - first:
+      213: -1205656215966890455
+    second: TTNumbers_274
+  - first:
+      213: 452826164775622787
+    second: TTNumbers_275
+  - first:
+      213: -3675996285259096232
+    second: TTNumbers_276
+  - first:
+      213: 3741323415270785202
+    second: TTNumbers_277
+  - first:
+      213: 7228182562381832165
+    second: TTNumbers_278
+  - first:
+      213: -8258580107149836201
+    second: TTNumbers_279
+  - first:
+      213: 6999999763788803928
+    second: TTNumbers_280
+  - first:
+      213: 5949527175464806526
+    second: TTNumbers_281
+  - first:
+      213: -1275723122920423199
+    second: TTNumbers_282
+  - first:
+      213: -7952424742031436888
+    second: TTNumbers_283
+  - first:
+      213: 8134949927950824274
+    second: TTNumbers_284
+  - first:
+      213: 8833495359170017708
+    second: TTNumbers_285
+  - first:
+      213: 4426454300678347116
+    second: TTNumbers_286
+  - first:
+      213: -1536878934572517634
+    second: TTNumbers_287
+  - first:
+      213: -7700329910173411737
+    second: TTNumbers_288
+  - first:
+      213: -7353098585826343025
+    second: TTNumbers_289
+  - first:
+      213: 5320902834877276881
+    second: TTNumbers_290
+  - first:
+      213: 113351586595558868
+    second: TTNumbers_291
+  - first:
+      213: 195390665893105448
+    second: TTNumbers_292
+  - first:
+      213: 477385482732735705
+    second: TTNumbers_293
+  - first:
+      213: 7584185217618833328
+    second: TTNumbers_294
+  - first:
+      213: 743649214723133868
+    second: TTNumbers_295
+  - first:
+      213: -5783123400131284654
+    second: TTNumbers_296
+  - first:
+      213: 1626459430597320339
+    second: TTNumbers_297
+  - first:
+      213: 520869901982016857
+    second: TTNumbers_298
+  - first:
+      213: 8952005670134126515
+    second: TTNumbers_299
+  - first:
+      213: 1719332346437534666
+    second: TTNumbers_300
+  - first:
+      213: -1897376678585930962
+    second: TTNumbers_301
+  - first:
+      213: 1152290788364009738
+    second: TTNumbers_302
+  - first:
+      213: 3738882831702105122
+    second: TTNumbers_303
+  - first:
+      213: 5467832891428180823
+    second: TTNumbers_304
+  - first:
+      213: 6025745980442334404
+    second: TTNumbers_305
+  - first:
+      213: 3162257778750959751
+    second: TTNumbers_306
+  - first:
+      213: 3289200750977816929
+    second: TTNumbers_307
+  - first:
+      213: -7420689420131689283
+    second: TTNumbers_308
+  - first:
+      213: -2639547476270237506
+    second: TTNumbers_309
+  - first:
+      213: 1761986178604564128
+    second: TTNumbers_310
+  - first:
+      213: -8678661037028736025
+    second: TTNumbers_311
+  - first:
+      213: 855139164978736150
+    second: TTNumbers_312
+  - first:
+      213: -142354856958675891
+    second: TTNumbers_313
+  - first:
+      213: -6558228028122444327
+    second: TTNumbers_314
+  - first:
+      213: -826461236197670319
+    second: TTNumbers_315
+  - first:
+      213: -6509641052316701421
+    second: TTNumbers_316
+  - first:
+      213: 7211433028793623059
+    second: TTNumbers_317
+  - first:
+      213: 496064838686226186
+    second: TTNumbers_318
+  - first:
+      213: -3228137678837441093
+    second: TTNumbers_319
+  - first:
+      213: 5578566266272946199
+    second: TTNumbers_320
+  - first:
+      213: 8242707512657687447
+    second: TTNumbers_321
+  - first:
+      213: -8169629682543012864
+    second: TTNumbers_322
+  - first:
+      213: 8444744213010857582
+    second: TTNumbers_323
+  - first:
+      213: 4632207316572792279
+    second: TTNumbers_324
+  - first:
+      213: 4069891592538223253
+    second: TTNumbers_325
+  - first:
+      213: -3648997166427762374
+    second: TTNumbers_326
+  - first:
+      213: -3020493889759777002
+    second: TTNumbers_327
+  - first:
+      213: 6115495239956984985
+    second: TTNumbers_328
+  - first:
+      213: -3066790481463643422
+    second: TTNumbers_329
+  - first:
+      213: 666090012443488291
+    second: TTNumbers_330
+  - first:
+      213: -6122636628280723186
+    second: TTNumbers_331
+  - first:
+      213: 5430430494056455634
+    second: TTNumbers_332
+  - first:
+      213: -7981555946766158723
+    second: TTNumbers_333
+  - first:
+      213: 5964366562560736073
+    second: TTNumbers_334
+  - first:
+      213: -6947255628972634063
+    second: TTNumbers_335
+  - first:
+      213: 121696370480332731
+    second: TTNumbers_336
+  - first:
+      213: -1856230819426760537
+    second: TTNumbers_337
+  - first:
+      213: -2867634483039060358
+    second: TTNumbers_338
+  - first:
+      213: -6990654369631245976
+    second: TTNumbers_339
+  - first:
+      213: -7685917410170901392
+    second: TTNumbers_340
+  - first:
+      213: 2377066305270310575
+    second: TTNumbers_341
+  - first:
+      213: -3409095281716542548
+    second: TTNumbers_342
+  - first:
+      213: 6579049860314199656
+    second: TTNumbers_343
+  - first:
+      213: 7237604477617390146
+    second: TTNumbers_344
+  - first:
+      213: -3987669238675152201
+    second: TTNumbers_345
+  - first:
+      213: -2828596262884186682
+    second: TTNumbers_346
+  - first:
+      213: 7192038473813054387
+    second: TTNumbers_347
+  - first:
+      213: 8788718935840337022
+    second: TTNumbers_348
+  - first:
+      213: 3963884500726571197
+    second: TTNumbers_349
+  - first:
+      213: -4800730893336408821
+    second: TTNumbers_350
+  - first:
+      213: 3923064010170264797
+    second: TTNumbers_351
+  - first:
+      213: -5544005049673138263
+    second: TTNumbers_352
+  - first:
+      213: -402345623261782207
+    second: TTNumbers_353
+  - first:
+      213: 6807127665551745110
+    second: TTNumbers_354
+  - first:
+      213: 1635882379553633013
+    second: TTNumbers_355
+  - first:
+      213: 8717458751390779302
+    second: TTNumbers_356
+  - first:
+      213: -3404914625433402833
+    second: TTNumbers_357
+  - first:
+      213: -6497556466937278875
+    second: TTNumbers_358
+  - first:
+      213: 9049483435593542300
+    second: TTNumbers_359
+  - first:
+      213: -6131123595600825509
+    second: TTNumbers_360
+  - first:
+      213: 4665814049330627347
+    second: TTNumbers_361
+  - first:
+      213: 6953223105010104376
+    second: TTNumbers_362
+  - first:
+      213: 3395953502254673787
+    second: TTNumbers_363
+  - first:
+      213: -8303923758801468175
+    second: TTNumbers_364
+  - first:
+      213: 1923790287572797173
+    second: TTNumbers_365
+  - first:
+      213: -5619845174250412351
+    second: TTNumbers_366
+  - first:
+      213: -3871474780299812211
+    second: TTNumbers_367
+  - first:
+      213: -5025053942419002573
+    second: TTNumbers_368
+  - first:
+      213: -81313283923953249
+    second: TTNumbers_369
+  - first:
+      213: -858085442849577804
+    second: TTNumbers_370
+  - first:
+      213: -5742347837136809940
+    second: TTNumbers_371
+  - first:
+      213: 8368756607921248044
+    second: TTNumbers_372
+  - first:
+      213: 4513192816081452025
+    second: TTNumbers_373
+  - first:
+      213: 1928755586416324698
+    second: TTNumbers_374
+  - first:
+      213: -6608235480200159583
+    second: TTNumbers_375
+  - first:
+      213: 2836924487220385157
+    second: TTNumbers_376
+  - first:
+      213: 1521534034696801177
+    second: TTNumbers_377
+  - first:
+      213: 9083797345313532058
+    second: TTNumbers_378
+  - first:
+      213: -4640195431030032309
+    second: TTNumbers_379
+  - first:
+      213: 2187927053041081352
+    second: TTNumbers_380
+  - first:
+      213: -6510198900412814577
+    second: TTNumbers_381
+  - first:
+      213: -4086154002108258321
+    second: TTNumbers_382
+  - first:
+      213: -1456716223084023916
+    second: TTNumbers_383
+  - first:
+      213: -4718714030635252389
+    second: TTNumbers_384
+  - first:
+      213: 8437555482690075284
+    second: TTNumbers_385
+  - first:
+      213: -8829023328827277215
+    second: TTNumbers_386
+  - first:
+      213: 8046822170197205698
+    second: TTNumbers_387
+  - first:
+      213: -6830522561339287309
+    second: TTNumbers_388
+  - first:
+      213: -3162901930762936742
+    second: TTNumbers_389
+  - first:
+      213: -6455098909373649802
+    second: TTNumbers_390
+  - first:
+      213: -3610417222124139512
+    second: TTNumbers_391
+  - first:
+      213: 2467454963821841528
+    second: TTNumbers_392
+  - first:
+      213: 213345047391654958
+    second: TTNumbers_393
+  - first:
+      213: 845893401549732611
+    second: TTNumbers_394
+  - first:
+      213: -1060699269456280839
+    second: TTNumbers_395
+  - first:
+      213: 2261920677669191356
+    second: TTNumbers_396
+  - first:
+      213: -8679385921130886620
+    second: TTNumbers_397
+  - first:
+      213: 2904619548719307455
+    second: TTNumbers_398
+  - first:
+      213: -2010068329231774231
+    second: TTNumbers_399
+  - first:
+      213: -6976048786756876391
+    second: TTNumbers_400
+  - first:
+      213: 3945970388424623989
+    second: TTNumbers_401
+  - first:
+      213: 2212521666170317831
+    second: TTNumbers_402
+  - first:
+      213: -4690673487296518527
+    second: TTNumbers_403
+  - first:
+      213: 36399469308315582
+    second: TTNumbers_404
+  - first:
+      213: -5640801045542887079
+    second: TTNumbers_405
+  - first:
+      213: -2814202331220010891
+    second: TTNumbers_406
+  - first:
+      213: 115159427968883503
+    second: TTNumbers_407
+  - first:
+      213: 472816613555841855
+    second: TTNumbers_408
+  - first:
+      213: 7020584745385993465
+    second: TTNumbers_409
+  - first:
+      213: 2587837694182890262
+    second: TTNumbers_410
+  - first:
+      213: 202835820517670192
+    second: TTNumbers_411
+  - first:
+      213: -1138423533463530109
+    second: TTNumbers_412
+  - first:
+      213: 5176087746528289487
+    second: TTNumbers_413
+  - first:
+      213: 8254890480457996250
+    second: TTNumbers_414
+  - first:
+      213: 2358969978579222826
+    second: TTNumbers_415
+  - first:
+      213: 636434296245130644
+    second: TTNumbers_416
+  - first:
+      213: 5717628084734047802
+    second: TTNumbers_417
+  - first:
+      213: 6866744802672998565
+    second: TTNumbers_418
+  - first:
+      213: 8490458022460651124
+    second: TTNumbers_419
+  - first:
+      213: -7642094054685479976
+    second: TTNumbers_420
+  - first:
+      213: 6243101290693408270
+    second: TTNumbers_421
+  - first:
+      213: 8754981489124559382
+    second: TTNumbers_422
+  - first:
+      213: 5354461001984383588
+    second: TTNumbers_423
+  - first:
+      213: 4814051202480641370
+    second: TTNumbers_424
+  - first:
+      213: -69119118952408337
+    second: TTNumbers_425
+  - first:
+      213: 5348578251361526471
+    second: TTNumbers_426
+  - first:
+      213: 5088402263992693226
+    second: TTNumbers_427
+  - first:
+      213: 4962196769908645161
+    second: TTNumbers_428
+  - first:
+      213: -7530874719543165103
+    second: TTNumbers_429
+  - first:
+      213: 8541166193037371339
+    second: TTNumbers_430
+  - first:
+      213: 8606784960027836010
+    second: TTNumbers_431
+  - first:
+      213: -5849949596640853285
+    second: TTNumbers_432
+  - first:
+      213: -5579562904188261085
+    second: TTNumbers_433
+  - first:
+      213: -3581599248342071846
+    second: TTNumbers_434
+  - first:
+      213: 3317320412385417962
+    second: TTNumbers_435
+  - first:
+      213: -5046946013980495952
+    second: TTNumbers_436
+  - first:
+      213: 740616601261486651
+    second: TTNumbers_437
+  - first:
+      213: 3162613258050671865
+    second: TTNumbers_438
+  - first:
+      213: 945332660301631704
+    second: TTNumbers_439
+  - first:
+      213: -5980820109494073310
+    second: TTNumbers_440
+  - first:
+      213: 8393416468167019048
+    second: TTNumbers_441
+  - first:
+      213: -5256373101539689849
+    second: TTNumbers_442
+  - first:
+      213: -3734123282004082872
+    second: TTNumbers_443
+  - first:
+      213: 3573433511062754558
+    second: TTNumbers_444
+  - first:
+      213: -6097512014663057672
+    second: TTNumbers_445
+  - first:
+      213: -6309250174404087372
+    second: TTNumbers_446
+  - first:
+      213: -2845178259319271365
+    second: TTNumbers_447
+  - first:
+      213: 8487553641070095727
+    second: TTNumbers_448
+  - first:
+      213: -4955733827916476696
+    second: TTNumbers_449
+  - first:
+      213: -5365366537272588664
+    second: TTNumbers_450
+  - first:
+      213: 7717229746751455672
+    second: TTNumbers_451
+  - first:
+      213: 3985525401471334571
+    second: TTNumbers_452
+  - first:
+      213: -743152701472944298
+    second: TTNumbers_453
+  - first:
+      213: -6121174211977729105
+    second: TTNumbers_454
+  - first:
+      213: -6297158059282974279
+    second: TTNumbers_455
+  - first:
+      213: 6457107677405642487
+    second: TTNumbers_456
+  - first:
+      213: -8744789072433047487
+    second: TTNumbers_457
+  - first:
+      213: -7564184944644323150
+    second: TTNumbers_458
+  - first:
+      213: 7720570916381989019
+    second: TTNumbers_459
+  - first:
+      213: 6199890367502993626
+    second: TTNumbers_460
+  - first:
+      213: -7754718825633630448
+    second: TTNumbers_461
+  - first:
+      213: -4067024366987034666
+    second: TTNumbers_462
+  - first:
+      213: 5739439484813532984
+    second: TTNumbers_463
+  - first:
+      213: 2517455115161085103
+    second: TTNumbers_464
+  - first:
+      213: 6967157465093349260
+    second: TTNumbers_465
+  - first:
+      213: 2795779800310763347
+    second: TTNumbers_466
+  - first:
+      213: -1632362393735577613
+    second: TTNumbers_467
+  - first:
+      213: -5980370865138967550
+    second: TTNumbers_468
+  - first:
+      213: -1698446813907975025
+    second: TTNumbers_469
+  - first:
+      213: 1824889651766079903
+    second: TTNumbers_470
+  - first:
+      213: 8513306756545897032
+    second: TTNumbers_471
+  - first:
+      213: -2512998225709904093
+    second: TTNumbers_472
+  - first:
+      213: 3889285453132263559
+    second: TTNumbers_473
+  - first:
+      213: 557016503079315425
+    second: TTNumbers_474
+  - first:
+      213: -8041730491810443891
+    second: TTNumbers_475
+  - first:
+      213: -8904132468084661355
+    second: TTNumbers_476
+  - first:
+      213: -7342060397264057721
+    second: TTNumbers_477
+  - first:
+      213: 6368506582203694482
+    second: TTNumbers_478
+  - first:
+      213: 6123265874623654963
+    second: TTNumbers_479
+  - first:
+      213: 8513792268768722122
+    second: TTNumbers_480
+  - first:
+      213: 6341818453323826072
+    second: TTNumbers_481
+  - first:
+      213: -8230504753384688477
+    second: TTNumbers_482
+  - first:
+      213: -7023277320586437014
+    second: TTNumbers_483
+  - first:
+      213: 1187546814354316494
+    second: TTNumbers_484
+  - first:
+      213: 5854505984763176325
+    second: TTNumbers_485
+  - first:
+      213: 3332563456456887049
+    second: TTNumbers_486
+  - first:
+      213: -8805361029943349337
+    second: TTNumbers_487
+  - first:
+      213: 1576676802852399473
+    second: TTNumbers_488
+  - first:
+      213: -7585087254012554437
+    second: TTNumbers_489
+  - first:
+      213: 691091117700402819
+    second: TTNumbers_490
+  - first:
+      213: 412324733266608929
+    second: TTNumbers_491
+  - first:
+      213: 1407072153138871555
+    second: TTNumbers_492
+  - first:
+      213: -3249817014602483715
+    second: TTNumbers_493
+  - first:
+      213: 971889577284259163
+    second: TTNumbers_494
+  - first:
+      213: 476142639093493668
+    second: TTNumbers_495
+  - first:
+      213: -5566646393077753014
+    second: TTNumbers_496
+  - first:
+      213: 3259205444521569982
+    second: TTNumbers_497
+  - first:
+      213: 856503399098851282
+    second: TTNumbers_498
+  - first:
+      213: 7531799738737463762
+    second: TTNumbers_499
+  - first:
+      213: 3574258817336443747
+    second: TTNumbers_500
+  - first:
+      213: -3285904696752391522
+    second: TTNumbers_501
+  - first:
+      213: 2738250915009819360
+    second: TTNumbers_502
+  - first:
+      213: 6459501198591164051
+    second: TTNumbers_503
+  - first:
+      213: 5717929131700679923
+    second: TTNumbers_504
+  - first:
+      213: 3319399636005077096
+    second: TTNumbers_505
+  - first:
+      213: 7715693818055548108
+    second: TTNumbers_506
+  - first:
+      213: 6575567620307319975
+    second: TTNumbers_507
+  - first:
+      213: 4692863734642167608
+    second: TTNumbers_508
+  - first:
+      213: 2810178886078867327
+    second: TTNumbers_509
+  - first:
+      213: -2687474799383960803
+    second: TTNumbers_510
+  - first:
+      213: 164186332975782412
+    second: TTNumbers_511
+  - first:
+      213: 8831782052550337537
+    second: TTNumbers_512
+  - first:
+      213: -1208757803818555898
+    second: TTNumbers_513
+  - first:
+      213: 210549295544635010
+    second: TTNumbers_514
+  - first:
+      213: 4052254364044930316
+    second: TTNumbers_515
+  - first:
+      213: 205276637311417728
+    second: TTNumbers_516
+  - first:
+      213: -5915765175468540372
+    second: TTNumbers_517
+  - first:
+      213: -5817016924559751146
+    second: TTNumbers_518
+  - first:
+      213: 7810715694859479650
+    second: TTNumbers_519
+  - first:
+      213: 2492118708382552592
+    second: TTNumbers_520
+  - first:
+      213: 5426638765458692256
+    second: TTNumbers_521
+  - first:
+      213: 7807960694901519012
+    second: TTNumbers_522
+  - first:
+      213: 6173097078958506778
+    second: TTNumbers_523
+  - first:
+      213: -4527660443972916277
+    second: TTNumbers_524
+  - first:
+      213: -4182105782336894228
+    second: TTNumbers_525
+  - first:
+      213: 3132333219709204162
+    second: TTNumbers_526
+  - first:
+      213: -2544262169752276185
+    second: TTNumbers_527
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TTNumbers_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 943
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0f1e469eb7e9b0800000000000000
+      internalID: -5050858904307692917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 943
+        width: 131
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c4c6e74c568280800000000000000
+      internalID: -9041437738015602448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 954
+        width: 141
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b108a58d0b74df0800000000000000
+      internalID: -195993615489557729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 958
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4b47b4365c7ac0800000000000000
+      internalID: -3856112396522534362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 954
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f4eb427fb5d03e0800000000000000
+      internalID: -2085909935371169928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_7
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 962
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94009221a1662d0800000000000000
+      internalID: -3285910212820579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_8
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 973
+        width: 152
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd450996dc45670800000000000000
+      internalID: 8526665847795932002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 962
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3113ca0eb1792e0800000000000000
+      internalID: -2119194447879007291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_11
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 964
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5342ab17dab288030800000000000000
+      internalID: 3497093134590551093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 806
+        width: 133
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b490d6042f9350800000000000000
+      internalID: 6025574438132824228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 806
+        width: 128
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8b1177ad48c060800000000000000
+      internalID: 6973909404535720643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 815
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6012a44e025a4e80800000000000000
+      internalID: -8193646350812704661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 817
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dae833a6bcd3900800000000000000
+      internalID: 665911976912661799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 830
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60e87307765ee20800000000000000
+      internalID: 3379220827077478052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_18
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 836
+        width: 152
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d2d204badc56b00800000000000000
+      internalID: 821288642464787811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_19
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 850
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ab11ebe588eb40800000000000000
+      internalID: 5469768995581962123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_21
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 855
+        width: 152
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b072042d902150800000000000000
+      internalID: 5845845094312228318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 852
+        width: 152
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688e2b8c02af58f0800000000000000
+      internalID: -549542454757521305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_23
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 857
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09caeddb0361d3db0800000000000000
+      internalID: -4810664428362093424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 664
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d32391aa8ef080800000000000000
+      internalID: -9151724966207302072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 692
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f18db99560d30d0800000000000000
+      internalID: -3441587558304702696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 692
+        width: 152
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38dd1628f892ff90800000000000000
+      internalID: -6921301485756229574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 715
+        width: 152
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772a8c35683dfbb0800000000000000
+      internalID: -4900698812050692235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 732
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39502f7166a192520800000000000000
+      internalID: 2677700479239194003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_31
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 737
+        width: 152
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6fbbdd51a572f60800000000000000
+      internalID: 8009469512262612702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_32
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 755
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af783154df80b9450800000000000000
+      internalID: 6096476404454754298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_33
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 746
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c687faba2ece5c70800000000000000
+      internalID: 8961826991434598083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_34
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 748
+        width: 152
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf2974d81b23050800000000000000
+      internalID: 5778876492219088366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_35
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 758
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae514b0c70d8ff0800000000000000
+      internalID: -32361098085275129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c860428dc91de0800000000000000
+      internalID: -1361831452992812916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_37
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 555
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d585d50af5d0c80800000000000000
+      internalID: -8354916591336923810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_38
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 559
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a43b7ae7bbb9a0800000000000000
+      internalID: -6216172642937560422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 575
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab91ef2ef16be80800000000000000
+      internalID: -8163302214776276329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_41
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 595
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58c27b2f331bb40800000000000000
+      internalID: 5454197741270631917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_42
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 602
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda396fa569d8210800000000000000
+      internalID: 1336889981827001788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_43
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 620
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e0542d655cdea70800000000000000
+      internalID: 8857953018793233945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_45
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 654
+        width: 152
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf4b4bbd4b7d9a0800000000000000
+      internalID: -6208294705584342070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_46
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 642
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35427e06d65aff70800000000000000
+      internalID: 9221778664359871803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_47
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 638
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310511d038710afd0800000000000000
+      internalID: -2332838755350523885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 417
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125538bb41bf688f0800000000000000
+      internalID: -538467038960331487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 424
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52488eef7386d2f30800000000000000
+      internalID: 4552409388050580517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 436
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da13e245d7d4bc9f0800000000000000
+      internalID: -447178537314668115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 442
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618b56d524de9800800000000000000
+      internalID: 621167057598906721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_53
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 460
+        width: 149
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8907ac9c067330800000000000000
+      internalID: 3708165210143034179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_54
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 474
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46038c4fa226660800000000000000
+      internalID: 7377506370405295357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_55
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 485
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b1c46e555db600800000000000000
+      internalID: 485638198731585249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_56
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 514
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b1bc518fc11b640800000000000000
+      internalID: 5093884505375841129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_57
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 501
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed164e2558665a0800000000000000
+      internalID: -6528384018761523462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_58
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 519
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b977d2eca0a927c0800000000000000
+      internalID: -4095565721716164172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 286
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8471cd31bb31e230800000000000000
+      internalID: 3666277204087633034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 307
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b0b7793b69e1e0800000000000000
+      internalID: -2168083851036806859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_63
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 319
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd616bbe8b139fc0800000000000000
+      internalID: -3489414986438971952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_64
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 328
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac68153824275620800000000000000
+      internalID: 2762716651523173539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_65
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 335
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f680582192fcdc0800000000000000
+      internalID: -3616626816237146354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_67
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 372
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd83b46d5f9330ef0800000000000000
+      internalID: -143207035120699171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_69
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 381
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985dba80ca90b910800000000000000
+      internalID: 1851149598601336991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_70
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 394
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea93c0d40e83c890800000000000000
+      internalID: -7438946008152433952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_71
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 397
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd1ac8b2c69e560800000000000000
+      internalID: 7343519601703116740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9c5fcc09a1eba0800000000000000
+      internalID: -6061377750980322265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 174
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d929aaefef3c5d10800000000000000
+      internalID: 2115636224623978969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TTNumbers_66
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 355
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e6b7aa1a3dbb110800000000000000
+      internalID: 1277847610593078804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
