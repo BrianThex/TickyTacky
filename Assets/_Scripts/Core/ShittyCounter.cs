@@ -14,6 +14,8 @@ namespace LP.TickyTacky.Core
         public Sprite[] Sprites;
         private int CurrentImage = 0;
 
+        public GameController Controller;
+
         private void Start()
         {
             Image = GetComponent<Image>();
@@ -32,6 +34,11 @@ namespace LP.TickyTacky.Core
                 yield return new WaitForSeconds(1);
                 CurrentImage += 1;
                 StartCoroutine(CountDownTimer());
+            }
+            else
+            {
+                Controller.GameOver();
+
             }
             yield return new WaitForEndOfFrame();
         }
