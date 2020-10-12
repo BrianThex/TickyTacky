@@ -8,11 +8,14 @@ namespace LP.TickyTacky.Core
     {
         public Image[] GridSpaces;
 
-        public Sprite PlayerSprite;
+        public Sprite PlayerX, PlayerO;
+
+        private Sprite PlayerSprite;
 
         private void Awake()
         {
             SetGameControllerReferenceOnButtons();
+            PlayerSprite = PlayerX;
         }
 
         private void SetGameControllerReferenceOnButtons()
@@ -73,7 +76,8 @@ namespace LP.TickyTacky.Core
 
         public void ChangeSides()
         {
-            // let the enemy ai make thier move
+            PlayerSprite = (PlayerSprite == PlayerX) ? PlayerO : PlayerX;
+
         }
 
         public void GameOver()
