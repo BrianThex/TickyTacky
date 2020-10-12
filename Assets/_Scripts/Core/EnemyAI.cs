@@ -15,6 +15,8 @@ namespace LP.TickyTacky.Core
 
             SetEnemyAIReferenceOnButtons();
 
+            AvailableSpaces.Clear();
+
             foreach(Image i in Controller.GridSpaces)
             {
                 AvailableSpaces.Add(i);

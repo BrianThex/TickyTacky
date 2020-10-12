@@ -106,7 +106,6 @@ namespace LP.TickyTacky.Menu
         public void PlaySound()
         {
             Source.PlayOneShot(Clip);
-
         }
     }
 }

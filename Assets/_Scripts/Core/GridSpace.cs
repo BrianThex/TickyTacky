@@ -8,6 +8,8 @@ namespace LP.TickyTacky.Core
         public Button button;
         public Image buttonImage;
         public Sprite playerSide;
+        public AudioSource Source;
+        public AudioClip Clip;
 
         private GameController GameController;
         private EnemyAI Enemy;
@@ -30,8 +32,14 @@ namespace LP.TickyTacky.Core
             Enemy.AvailableSpaces.Remove(buttonImage);
             buttonImage.sprite = GameController.GetPlayerSprite();
             buttonImage.color = new Color32 (0, 0, 0, 255);
+            PlaySound();
             button.interactable = false;
             GameController.EndTurn();
+        }
+
+        public void PlaySound()
+        {
+            Source.PlayOneShot(Clip);
         }
     }
 }

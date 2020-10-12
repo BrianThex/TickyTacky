@@ -139,10 +139,11 @@ namespace LP.TickyTacky.Core
                     break;
                 case "Out Of Time!": //THS IS A LOSS
                     Debug.Log($"Looks you are are... {WinCondition}");
-                    StartCoroutine(SetLoseScreen(EnemyWin));
+                    StartCoroutine(SetLoseScreen(OutOfTime));
                     break;
                 case "Tie!": //THIS IS A LOSS
                     Debug.Log(WinCondition);
+                    StartCoroutine(SetLoseScreen(EnemyWin));
                     break;
             }
 
@@ -152,7 +153,7 @@ namespace LP.TickyTacky.Core
 
         private IEnumerator SetLoseScreen(Sprite reason)
         {
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(2);
             EndScreen.gameObject.SetActive(true);
             LossReason.gameObject.SetActive(true);
             EndScreen.sprite = YouLose;
