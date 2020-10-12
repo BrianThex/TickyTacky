@@ -18,7 +18,7 @@ namespace LP.TickyTacky.Menu
 
         private void SelectionInputs()
         {
-            if (MoveOnY)
+            if (MoveOnY) 
             {
                 if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
                 {
@@ -45,7 +45,7 @@ namespace LP.TickyTacky.Menu
                     UpdateSelection();
                 }
             }
-            else if (MoveOnX)
+            else if (MoveOnX) // For when I add the level selection in.
             {
                 if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
                 {

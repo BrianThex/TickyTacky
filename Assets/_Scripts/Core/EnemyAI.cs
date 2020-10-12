@@ -1,18 +1,49 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class EnemyAI : MonoBehaviour
+namespace LP.TickyTacky.Core
 {
-    // Start is called before the first frame update
-    void Start()
+    public class EnemyAI : MonoBehaviour
     {
-        
-    }
+        private GameController Controller;
+        public List<Image> AvailableSpaces;
+        private void OnEnable()
+        {
+            Controller = GetComponent<GameController>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+            SetEnemyAIReferenceOnButtons();
+
+            foreach(Image i in Controller.GridSpaces)
+            {
+                AvailableSpaces.Add(i);
+                i.gameObject.GetComponent<Button>().interactable = true;
+            }
+        }
+
+        private void SetEnemyAIReferenceOnButtons()
+        {
+            for (int i = 0; i < Controller.GridSpaces.Length; i++)
+            {
+                Controller.GridSpaces[i].GetComponentInParent<GridSpace>().SetEnemyAIReference(this);
+            }
+        }
+
+        public IEnumerator PlayEnemyTurn()
+        {
+            yield return new WaitForSeconds(1);
+
+            if (AvailableSpaces.Count != 0)
+            {
+                int i = Random.Range(0, AvailableSpaces.Count);
+                AvailableSpaces[i].gameObject.GetComponent<GridSpace>().SetSpace();
+            }
+            else
+            {
+                Controller.GameOver("Tie!");
+            }
+        }
     }
 }
+

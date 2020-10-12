@@ -10,17 +10,18 @@ namespace LP.TickyTacky.Core
         private Image Image;
         public Image MinuteNumber;
         public Sprite[] Sprites;
-        private int CurrentImage = 0;
+        private int CurrentImage;
 
         public GameController Controller;
 
-        private void Start()
+        private void OnEnable()
         {
             Image = GetComponent<Image>();
+            CurrentImage = 0;
             StartCoroutine(CountDownTimer());
         }
 
-        IEnumerator CountDownTimer()
+        private IEnumerator CountDownTimer()
         {
             if(CurrentImage != Sprites.Length)
             {
@@ -35,7 +36,7 @@ namespace LP.TickyTacky.Core
             }
             else
             {
-                Controller.GameOver();
+                Controller.GameOver("Out Of Time!");
 
             }
             yield return new WaitForEndOfFrame();

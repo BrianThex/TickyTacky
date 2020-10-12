@@ -9,18 +9,29 @@ namespace LP.TickyTacky.Core
         public Image buttonImage;
         public Sprite playerSide;
 
-        private GameController gameController;
+        private GameController GameController;
+        private EnemyAI Enemy;
 
+        private void OnEnable()
+        {
+            buttonImage.sprite = null;
+            buttonImage.color = new Color32(255, 255, 255, 1);
+        }
         public void SetGameControllerReference(GameController controller)
         {
-            gameController = controller;
+            GameController = controller;
+        }
+        public void SetEnemyAIReference(EnemyAI ai)
+        {
+            Enemy = ai;
         }
         public void SetSpace()
         {
-            buttonImage.sprite = gameController.GetPlayerSprite();
+            Enemy.AvailableSpaces.Remove(buttonImage);
+            buttonImage.sprite = GameController.GetPlayerSprite();
             buttonImage.color = new Color32 (0, 0, 0, 255);
             button.interactable = false;
-            gameController.EndTurn();
+            GameController.EndTurn();
         }
     }
 }
