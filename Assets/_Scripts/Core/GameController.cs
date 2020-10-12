@@ -1,6 +1,8 @@
 ﻿using LP.TickyTacky.Core.GamePlay;
+using System.ComponentModel.Design;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngineInternal;
 
 namespace LP.TickyTacky.Core
 {
@@ -78,7 +80,7 @@ namespace LP.TickyTacky.Core
         public void ChangeSides()
         {
             PlayerSprite = (PlayerSprite == PlayerX) ? PlayerO : PlayerX;
-
+            Debug.Log("Changing Sides!");
         }
 
         public void GameOver()
@@ -88,7 +90,7 @@ namespace LP.TickyTacky.Core
                 GridSpaces[i].GetComponentInParent<Button>().interactable = false;
             }
 
-            // set losing screen
+            Debug.Log("GameOver!");
         }
     }
 }
