@@ -72,6 +72,7 @@ namespace LP.TickyTacky.Core
             {
                 GameOver();
             }
+            ChangeSides();
         }
 
         public void ChangeSides()
