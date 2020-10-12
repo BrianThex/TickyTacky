@@ -1,8 +1,5 @@
-﻿using LP.TickyTacky.Core.GamePlay;
-using System.ComponentModel.Design;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
-using UnityEngineInternal;
 
 namespace LP.TickyTacky.Core
 {

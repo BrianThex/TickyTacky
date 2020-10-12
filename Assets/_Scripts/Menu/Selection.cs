@@ -1,7 +1,4 @@
-﻿using System;
-using System.Net.Http.Headers;
-using System.Security.Cryptography;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace LP.TickyTacky.Menu
 {

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace LP.TickyTacky.Core.GamePlay
+namespace LP.TickyTacky.Core
 {
     public class GridSpace : MonoBehaviour
     {
